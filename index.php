@@ -1,4 +1,4 @@
 
 <?php
-echo "Hello MyGit!";
+echo "Hello MyGit! Im on develop branch";
 
